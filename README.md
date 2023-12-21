@@ -1,4 +1,4 @@
-# ZP.Git
+# ZP.Git (C#)
 
-Git in various programming languages.
+Git in C#.
 
